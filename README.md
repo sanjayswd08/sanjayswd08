@@ -8,7 +8,7 @@
 - Hi. How are You?
 - What is your Name?
 - <p><b><I>HI</I>I</b>Hi. How are you mam.</p>
-<i>WHAT IS YOUR NAME</i>
+<u>WHAT IS YOUR NAME</u>
 <!---
 sanjayswd08/sanjayswd08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
